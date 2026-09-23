@@ -1,0 +1,17 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary runner files
+tempCodeRunnerFile.py
+*.tmp
+
+# Environments
+env/
+venv/
+.env
+
+# Editor settings
+.vscode/
+.idea/
