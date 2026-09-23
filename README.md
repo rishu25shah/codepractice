@@ -45,31 +45,3 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | 23 | Remove Duplicate Elements | Arrays | [`remove_duplicate_elements.py`](remove_duplicate_elements.py) |
 | 24 | Reverse String | Strings | [`reverse.py`](reverse.py) |
 | 25 | Reverse Words in Sentence | Strings | [`reverse_word.py`](reverse_word.py) |
-
----
-
-## Daily Update Template
-
-To add a new day's progress, append the following block under the Daily Practice Log section:
-
-```markdown
-### Day X: [Topic Name]
-
-- **Date**: YYYY-MM-DD
-- **Total Problems**: [Count]
-- **Key Concepts**: [Brief summary of topics covered]
-
-| No. | Problem Description | Category | File |
-| :--- | :--- | :--- | :--- |
-| 1 | [Problem Name] | [Category] | [`filename.py`](filename.py) |
-```
-
----
-
-## Execution
-
-To execute any script locally:
-
-```bash
-python <filename>.py
-```
