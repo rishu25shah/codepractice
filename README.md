@@ -7,7 +7,8 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | Day | Focus Areas | Problems Solved | Status |
 | :--- | :--- | :---: | :---: |
 | Day 1 | Strings, Searching Algorithms, Arrays, and Frequency Maps | 25 | Completed |
-| Day 2 | In Progress / Upcoming | - | Planned |
+| Day 2 | Arrays, Hash Maps, Two Pointers, and Stack Operations | 10 | Completed |
+| Day 3 | In Progress / Upcoming | - | Planned |
 
 ---
 
@@ -45,3 +46,23 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | 23 | Remove Duplicate Elements | Arrays | [`remove_duplicate_elements.py`](remove_duplicate_elements.py) |
 | 24 | Reverse String | Strings | [`reverse.py`](reverse.py) |
 | 25 | Reverse Words in Sentence | Strings | [`reverse_word.py`](reverse_word.py) |
+
+---
+
+### Day 2: Arrays, Hash Maps, and Stack Operations
+
+- **Total Problems**: 10
+- **Key Concepts**: Sliding window and profit tracking, frequency maps, array partitioning, stack validation, and string normalization.
+
+| No. | Problem Description | Category | File |
+| :--- | :--- | :--- | :--- |
+| 1 | Valid Anagram Verification | Strings / Hash Map | [`day2/anagram.py`](day2/anagram.py) |
+| 2 | Best Time to Buy and Sell Stock | Arrays / Greedy | [`day2/bst_time_buy_sell.py`](day2/bst_time_buy_sell.py) |
+| 3 | Contains Duplicate Check | Hash Map / Arrays | [`day2/contain_duplicate.py`](day2/contain_duplicate.py) |
+| 4 | Find Maximum Element | Arrays | [`day2/max.py`](day2/max.py) |
+| 5 | Move All Zeroes to End | Arrays | [`day2/move_all_zero_to_end.py`](day2/move_all_zero_to_end.py) |
+| 6 | Product of Array Except Self | Arrays | [`day2/poduct_except_self.py`](day2/poduct_except_self.py) |
+| 7 | Remove Duplicates / Unique Count | Hash Map / Arrays | [`day2/remove_duplicate.py`](day2/remove_duplicate.py) |
+| 8 | Top K Frequent Elements | Hash Map / Arrays | [`day2/top_k_frequency.py`](day2/top_k_frequency.py) |
+| 9 | Valid Palindrome Verification | Strings | [`day2/valid_palindrome.py`](day2/valid_palindrome.py) |
+| 10 | Valid Parentheses Validation | Stack | [`day2/valid_parenthses.py`](day2/valid_parenthses.py) |
