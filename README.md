@@ -8,7 +8,8 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | :--- | :--- | :---: | :---: |
 | Day 1 | Strings, Searching Algorithms, Arrays, and Frequency Maps | 25 | Completed |
 | Day 2 | Arrays, Hash Maps, Two Pointers, and Stack Operations | 10 | Completed |
-| Day 3 | In Progress / Upcoming | - | Planned |
+| Day 3 | Two Pointers, Sliding Window, Arrays, and Hash Maps | 7 | Completed |
+| Day 4 | In Progress / Upcoming | - | Planned |
 
 ---
 
@@ -66,3 +67,20 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | 8 | Top K Frequent Elements | Hash Map / Arrays | [`day2/top_k_frequency.py`](day2/top_k_frequency.py) |
 | 9 | Valid Palindrome Verification | Strings | [`day2/valid_palindrome.py`](day2/valid_palindrome.py) |
 | 10 | Valid Parentheses Validation | Stack | [`day2/valid_parenthses.py`](day2/valid_parenthses.py) |
+
+---
+
+### Day 3: Two Pointers, Sliding Window, and Hash Maps
+
+- **Total Problems**: 7
+- **Key Concepts**: Two-pointer technique for area optimization and triplet sums, sliding window with hash sets for unique substrings, hash map grouping, and greedy single-pass profit calculation.
+
+| No. | Problem Description | Category | File |
+| :--- | :--- | :--- | :--- |
+| 1 | Best Time to Buy and Sell Stock | Arrays / Greedy | [`day3/besttimebuyorsell.py`](day3/besttimebuyorsell.py) |
+| 2 | Container With Most Water | Two Pointers / Arrays | [`day3/container.py`](day3/container.py) |
+| 3 | Group Anagrams | Strings / Hash Map | [`day3/groupanagram.py`](day3/groupanagram.py) |
+| 4 | Longest Substring Without Repeating Characters | Sliding Window / Hash Set | [`day3/longestsubstring.py`](day3/longestsubstring.py) |
+| 5 | Move Zeroes to End | Two Pointers / Arrays | [`day3/movezeroes.py`](day3/movezeroes.py) |
+| 6 | 3Sum - Unique Triplets | Two Pointers / Arrays | [`day3/unique_triplet.py`](day3/unique_triplet.py) |
+| 7 | Valid Anagram Verification | Strings / Hash Map | [`day3/validanagram.py`](day3/validanagram.py) |
