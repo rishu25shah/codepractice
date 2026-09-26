@@ -9,7 +9,7 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | Day 1 | Strings, Searching Algorithms, Arrays, and Frequency Maps | 25 | Completed |
 | Day 2 | Arrays, Hash Maps, Two Pointers, and Stack Operations | 10 | Completed |
 | Day 3 | Two Pointers, Sliding Window, Arrays, and Hash Maps | 7 | Completed |
-| Day 4 | In Progress / Upcoming | - | Planned |
+| Day 4 | Pattern Printing, Nested Loops, and Geometric Logic | 15 | Completed |
 
 ---
 
@@ -84,3 +84,28 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | 5 | Move Zeroes to End | Two Pointers / Arrays | [`day3/movezeroes.py`](day3/movezeroes.py) |
 | 6 | 3Sum - Unique Triplets | Two Pointers / Arrays | [`day3/unique_triplet.py`](day3/unique_triplet.py) |
 | 7 | Valid Anagram Verification | Strings / Hash Map | [`day3/validanagram.py`](day3/validanagram.py) |
+
+---
+
+### Day 4: Pattern Printing and Nested Loop Logic
+
+- **Total Problems**: 15
+- **Key Concepts**: Nested loops, space-to-character ratio calculations, coordinate boundary checks for hollow shapes, symmetrical pyramids, Floyd's triangle sequence, and parity-based binary matrix generation.
+
+| No. | Problem Description | Category | File |
+| :--- | :--- | :--- | :--- |
+| 1 | Solid Square Pattern | Patterns / Loops | [`day4/pattern1.py`](day4/pattern1.py) |
+| 2 | Right-Angled Triangle Pattern | Patterns / Loops | [`day4/pattern2.py`](day4/pattern2.py) |
+| 3 | Inverted Right-Angled Triangle Pattern | Patterns / Loops | [`day4/pattern3.py`](day4/pattern3.py) |
+| 4 | Number Triangle Pattern | Patterns / Loops | [`day4/pattern4.py`](day4/pattern4.py) |
+| 5 | Row-Repeated Number Triangle | Patterns / Loops | [`day4/pattern5.py`](day4/pattern5.py) |
+| 6 | Right-Aligned Triangle Pattern | Patterns / Loops | [`day4/pattern6.py`](day4/pattern6.py) |
+| 7 | Full Pyramid Star Pattern | Patterns / Loops | [`day4/pattern7.py`](day4/pattern7.py) |
+| 8 | Inverted Pyramid Star Pattern | Patterns / Loops | [`day4/pattern8.py`](day4/pattern8.py) |
+| 9 | Hollow Square Pattern | Patterns / Loops | [`day4/pattern9.py`](day4/pattern9.py) |
+| 10 | Hollow Rectangle Pattern | Patterns / Loops | [`day4/pattern10.py`](day4/pattern10.py) |
+| 11 | Diamond Star Pattern | Patterns / Loops | [`day4/pattern11.py`](day4/pattern11.py) |
+| 12 | Floyd's Triangle Pattern | Patterns / Loops | [`day4/pattern12.py`](day4/pattern12.py) |
+| 13 | Binary (0-1) Triangle Pattern | Patterns / Loops | [`day4/pattern13.py`](day4/pattern13.py) |
+| 14 | Hollow Pyramid Pattern | Patterns / Loops | [`day4/pattern14.py`](day4/pattern14.py) |
+| 15 | Hollow Inverted Pyramid Pattern | Patterns / Loops | [`day4/pattern15.py`](day4/pattern15.py) |
