@@ -10,6 +10,7 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | Day 2 | Arrays, Hash Maps, Two Pointers, and Stack Operations | 10 | Completed |
 | Day 3 | Two Pointers, Sliding Window, Arrays, and Hash Maps | 7 | Completed |
 | Day 4 | Pattern Printing, Nested Loops, and Geometric Logic | 15 | Completed |
+| Day 5 | Advanced Patterns, Butterflies, Rhombus, and Palindromic Pyramids | 6 | Completed |
 
 ---
 
@@ -109,3 +110,19 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | 13 | Binary (0-1) Triangle Pattern | Patterns / Loops | [`day4/pattern13.py`](day4/pattern13.py) |
 | 14 | Hollow Pyramid Pattern | Patterns / Loops | [`day4/pattern14.py`](day4/pattern14.py) |
 | 15 | Hollow Inverted Pyramid Pattern | Patterns / Loops | [`day4/pattern15.py`](day4/pattern15.py) |
+
+---
+
+### Day 5: Advanced Patterns and Symmetrical Logic
+
+- **Total Problems**: 6
+- **Key Concepts**: Nested loops, dual-wing butterfly symmetry, coordinate intersection logic (X and Plus patterns), slanted spaces for solid/hollow rhombus, and ascending/descending palindromic number sequences.
+
+| No. | Problem Description | Category | File |
+| :--- | :--- | :--- | :--- |
+| 1 | Butterfly Star Pattern | Patterns / Loops | [`day5/pattern16.py`](day5/pattern16.py) |
+| 2 | Diagonal Cross (X) Star Pattern | Patterns / Loops | [`day5/pattern17.py`](day5/pattern17.py) |
+| 3 | Plus Star Pattern | Patterns / Loops | [`day5/pattern18.py`](day5/pattern18.py) |
+| 4 | Solid Rhombus Pattern | Patterns / Loops | [`day5/pattern19.py`](day5/pattern19.py) |
+| 5 | Hollow Rhombus Pattern | Patterns / Loops | [`day5/pattern20.py`](day5/pattern20.py) |
+| 6 | Palindromic Number Pyramid Pattern | Patterns / Loops | [`day5/pattern21.py`](day5/pattern21.py) |
