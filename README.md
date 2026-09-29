@@ -11,6 +11,7 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | Day 3 | Two Pointers, Sliding Window, Arrays, and Hash Maps | 7 | Completed |
 | Day 4 | Pattern Printing, Nested Loops, and Geometric Logic | 15 | Completed |
 | Day 5 | Advanced Patterns, Butterflies, Rhombus, and Palindromic Pyramids | 6 | Completed |
+| Day 6 | Two Pointers, Array Partitioning, and Pascal's Triangle | 7 | Completed |
 
 ---
 
@@ -126,3 +127,20 @@ A structured repository tracking daily Python problem solving, algorithms, and c
 | 4 | Solid Rhombus Pattern | Patterns / Loops | [`day5/pattern19.py`](day5/pattern19.py) |
 | 5 | Hollow Rhombus Pattern | Patterns / Loops | [`day5/pattern20.py`](day5/pattern20.py) |
 | 6 | Palindromic Number Pyramid Pattern | Patterns / Loops | [`day5/pattern21.py`](day5/pattern21.py) |
+
+---
+
+### Day 6: Two Pointers Technique and Combinatorial Patterns
+
+- **Total Problems**: 7
+- **Key Concepts**: Two-pointer search in sorted arrays, slow and fast pointers for in-place duplicate removal, finding all target sum pairs, two-pointer palindrome validation, array zero partitioning, and Pascal's triangle generation.
+
+| No. | Problem Description | Category | File |
+| :--- | :--- | :--- | :--- |
+| 1 | Pascal's Triangle Pattern | Patterns / Loops | [`day6/pattern22.py`](day6/pattern22.py) |
+| 2 | Move All Zeroes to End | Arrays | [`day6/zero.py`](day6/zero.py) |
+| 3 | Two Sum (Two Pointers) | Two Pointers / Arrays | [`day6/2-pointer-concept-practice/Two_sum.py`](day6/2-pointer-concept-practice/Two_sum.py) |
+| 4 | Find All Pairs with Target Sum | Two Pointers / Arrays | [`day6/2-pointer-concept-practice/all_pair.py`](day6/2-pointer-concept-practice/all_pair.py) |
+| 5 | Valid Palindrome Verification | Two Pointers / Strings | [`day6/2-pointer-concept-practice/palindrome.py`](day6/2-pointer-concept-practice/palindrome.py) |
+| 6 | Remove Duplicates from Sorted Array | Two Pointers / Arrays | [`day6/2-pointer-concept-practice/remove_duplicate.py`](day6/2-pointer-concept-practice/remove_duplicate.py) |
+| 7 | Two Sum Pair Check | Two Pointers / Arrays | [`day6/2-pointer-concept-practice/two-sum.py`](day6/2-pointer-concept-practice/two-sum.py) |
